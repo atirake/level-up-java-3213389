@@ -1,6 +1,5 @@
 package com.linkedin.javacodechallenges;
 
-import java.net.PasswordAuthentication;
 import java.util.Scanner;
 
 public class App {
